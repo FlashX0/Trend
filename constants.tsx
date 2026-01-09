@@ -73,7 +73,7 @@ export const MOCK_PRODUCTS: Product[] = [
     image: 'https://elmohandesstore.com/wp-content/uploads/2024/09/1000061664.jpg',
     gallery: [
       'https://vontx.com/wp-content/uploads/2025/05/anker-R50i-Nc-Black.webp',
-      'https://m.media-amazon.com/images/I/41AYDkp2jIL._AC_UF350,350_QL80_.jpg',
+      'https://m.media-amazon.com/images/I/41AYDkp2jIL._AC_UF350,350_QL80_.jpg', 
       'https://f.nooncdn.com/p/pnsku/N70082559V/45/_/1750406798/54ff6970-c8d8-44ab-8f48-8b81ac914878.jpg?width=320'
     ],
     condition: 'أصلي مختوم'
