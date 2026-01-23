@@ -40,9 +40,3 @@ export interface AppNotification {
   productId?: string;
   duration?: number;
 }
-
-// Added ChatMessage interface to fix missing export error in AiAssistant component
-export interface ChatMessage {
-  role: 'user' | 'model';
-  text: string;
-}
